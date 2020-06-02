@@ -13,6 +13,7 @@
 		BC96084C2486EA330021291E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC96084A2486EA330021291E /* Main.storyboard */; };
 		BC96084E2486EA360021291E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC96084D2486EA360021291E /* Assets.xcassets */; };
 		BC9608512486EA360021291E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC96084F2486EA360021291E /* LaunchScreen.storyboard */; };
+		BC9608592486EBCC0021291E /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = BC9608582486EBCB0021291E /* GameScene.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BC96084D2486EA360021291E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BC9608502486EA360021291E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BC9608522486EA360021291E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC9608582486EBCB0021291E /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				BC9608442486EA330021291E /* AppDelegate.swift */,
 				BC9608462486EA330021291E /* SceneDelegate.swift */,
 				BC9608482486EA330021291E /* ViewController.swift */,
+				BC9608582486EBCB0021291E /* GameScene.sks */,
 				BC96084A2486EA330021291E /* Main.storyboard */,
 				BC96084D2486EA360021291E /* Assets.xcassets */,
 				BC96084F2486EA360021291E /* LaunchScreen.storyboard */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC9608592486EBCC0021291E /* GameScene.sks in Resources */,
 				BC9608512486EA360021291E /* LaunchScreen.storyboard in Resources */,
 				BC96084E2486EA360021291E /* Assets.xcassets in Resources */,
 				BC96084C2486EA330021291E /* Main.storyboard in Resources */,
