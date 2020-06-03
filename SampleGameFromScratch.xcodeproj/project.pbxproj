@@ -14,6 +14,7 @@
 		BC96084E2486EA360021291E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC96084D2486EA360021291E /* Assets.xcassets */; };
 		BC9608512486EA360021291E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC96084F2486EA360021291E /* LaunchScreen.storyboard */; };
 		BC9608592486EBCC0021291E /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = BC9608582486EBCB0021291E /* GameScene.sks */; };
+		BC96085B24880A9F0021291E /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC96085A24880A9F0021291E /* GameScene.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BC9608502486EA360021291E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BC9608522486EA360021291E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BC9608582486EBCB0021291E /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
+		BC96085A24880A9F0021291E /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				BC9608462486EA330021291E /* SceneDelegate.swift */,
 				BC9608482486EA330021291E /* ViewController.swift */,
 				BC9608582486EBCB0021291E /* GameScene.sks */,
+				BC96085A24880A9F0021291E /* GameScene.swift */,
 				BC96084A2486EA330021291E /* Main.storyboard */,
 				BC96084D2486EA360021291E /* Assets.xcassets */,
 				BC96084F2486EA360021291E /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 			files = (
 				BC9608492486EA330021291E /* ViewController.swift in Sources */,
 				BC9608452486EA330021291E /* AppDelegate.swift in Sources */,
+				BC96085B24880A9F0021291E /* GameScene.swift in Sources */,
 				BC9608472486EA330021291E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
